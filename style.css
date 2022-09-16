@@ -1,0 +1,32 @@
+
+
+#cabecalho {
+	text-align: center ;
+}
+
+
+#banner {
+    width: 50%;
+
+}
+
+#fundo {
+	background-color: orange;
+	border-color: orange;
+}
+
+#fundo2 {
+	background-color: yellow;
+	border-color: yellow;
+}
+
+#beneficios {
+	background-color: orange;
+	border-color: orange;
+}
+
+#banner2 {
+	display: block;
+	width: 50%;
+
+}
